@@ -1,29 +1,4 @@
 
-
-
-
-
-// ------------------------------------------------------------------------------- //
-// Assignment (4) question 1 and 2
-// Written by: (Johnny Aldeb and Student ID Number:40187248)
-// For COMP 248 Section ( U ) – Winter 2022
-// ---------------------------------------------------------------------------------
-
-
-/*  This program allows new students to enroll in COMP-248 course section U with respect to class size, find their position in class,
- *  Unenroll from class, update their first and last name, update their assignments and other scores such that labs, Mid-Term, final exam, 
- *  And get their personal information and evaluation record including first and last name of the existence student, his/her studentID, 
- *  grades in labs, assignments 1,2,3,4 as well as their mid-Term, final exam,cumulative weight score, and final letter grade.
- *  
- *  this program calculate the minimum, maximum, and the average score among all the student enrolled in COMP-248 course section U.
- *  
- * finally this program display the report of all students in COMP-248 course section U 
- * 
- */
-
-
-
-
 import java.util.Scanner;
 
 
